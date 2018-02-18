@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_button">16dp</dimen>
+    <dimen name="margin_top_logo">25dp</dimen>
+    <dimen name="text_size_head">16dp</dimen>
+</resources>
